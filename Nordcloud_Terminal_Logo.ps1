@@ -226,7 +226,7 @@ $EncodedLogo[0..$EncodedLogo.Count] | %{ Write-Host -foregroundcolor White -Back
 #Measure-Command{WriteNordcloudLogo}
 #Measure-Command{WriteNordcloudLogoEncoded}
 
-Set-WindowToMyStyle -WindowTitle "☁Nordcloud"
+Set-WindowToMyStyle -WindowTitle '☁Nordcloud'
 WriteNordcloudLogoEncoded
 
 
