@@ -1,3 +1,4 @@
+# iex (iwr http://bit.do/ePmhY)
 # "☁Nordcloud"
 # https://manytools.org/hacker-tools/convert-images-to-ascii-art/go
 # Using cloud image cut from https://nordcloud.com/wp-content/uploads/2018/07/Logo-blue.png
@@ -5,162 +6,7 @@
 # http://patorjk.com/software/taag/#p=testall&f=Big&t=Nordcloud
 # https://www.ascii-code.com/
 #
- 
-
-
 <#   
-                 (@@@@@@@@@@,          
-           #@@@@@@@@&,  ,&@@@@/        
-        *@@@@@@@@@          @@@&       
-       &@@@,                 @@@,      
-      &@@@                   &@@@,     
-    @@@@@@          @@&       (@@@@    
-  ,@@@*            @@@@@        #@@@   
-  @@@(            @@@@@@@        @@@.  
-  @@@%              @@@,         @@@   
-   @@@&             .@@@&      &@@@,   
-    &@@@@@@@@@@@@&    @@@@@@@@@@@@     
-       %@@@@@@@@@@@      %@@@@&
-
-                //           
-            &@@@@@@@@@       
-      /@@@@@@&      (@@(     
-     @@@              @@     
-   %@@@        (*     @@@&   
-  @@@         &@@&      @@@  
- (@@         ((@@((     .@@  
-  @@,          @@@      @@@  
-   @@@@@@@@@&   &@@@@@@@@&   
-     .&@@@@@@@     %&&(  
-
-
-                  .            
-             &@@@@@@@@@.       
-       %@@@@@@@      *@@@      
-      @@@              @@&     
-    (@@@        ..     &@@&    
-  /@@@.        /@@\      @@@   
-  @@*         /@@@@\      @@@  
- .@@           \@@%       @@@  
-  &@@&          \@@@    .@@@   
-    @@@@@@@@@@&   &@@@@@@@(
-
-
-         /@@&      
-    ,@@@@    @@    
-   @@         @@   
- @@(     *@.   .@% 
- @*       @     @@ 
- %@@      &@@ ,@@  
-
-
-               #@@@@@@@@@&         
-         %@@@@@@@&     %@@@&       
-       @@@@&. (&         #@@@      
-      @@@*                @@@      
-    @@@@@         #@      @@@@@    
-  *@@@           &@@@        @@@   
-  @@@           &@@@@@       ,@@%  
-  @@@             @@@        #@@/  
-  ,@@@            ,@@@*     @@@@   
-    @@@@@@@@@@@@*   &@@@@@@@@@     
-       .(((((((((      ./(, 
-
-
-       @@@@    
-   @@&@    @.  
- &@@    @  %@& 
-.@      @    @ 
- @@@&&* @@@@@(
-
- 
-        _   _               _      _                 _ 
-       | \ | | ___  _ __ __| | ___| | ___  _   _  __| |
-       |  \| |/ _ \| '__/ _` |/ __| |/ _ \| | | |/ _` |
-       | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |
-       |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|
-                                                       
-
-
-  _   _               _      _                 _ 
- | \ | |             | |    | |               | |
- |  \| | ___  _ __ __| | ___| | ___  _   _  __| |
- | . ` |/ _ \| '__/ _` |/ __| |/ _ \| | | |/ _` |
- | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |
- |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|
-                                                 
-                                                 
-
-
- 
-       `.+yhyo.    
-   .ydyy+. `/N+   
- `omy    /-  omo  
- hd`    :Nm.  `No 
- +N+:---`+No::ym- 
-  `/++++/ `/++:
-
-  
-                  _   _               _      _                 _ 
-       @@@@      | \ | |             | |    | |               | |
-   @@&@    @.    |  \| | ___  _ __ __| | ___| | ___  _   _  __| |
- &@@    @  %@&   | . ` |/ _ \| '__/ _` |/ __| |/ _ \| | | |/ _` |
-.@     /@\   @   | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |
- @@@&&* @@@@@(   |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|
-
-  
-       @@@@    
-   @@&@    @.  
- &@@    @  %@& 
-.@      @    @ 
- @@@&&* @@@@@(
-     
-#>
-
-<#
-Function WriteLogo {
-Write-Host "                      _   _               _      _                 _            " -foregroundcolor White -BackgroundColor Black
-Write-Host "           @@@@      | \ | |             | |    | |               | |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "       @@&@    @.    |  \| | ___  _ __ __| | ___| | ___  _   _  __| |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "     &@@    @  %@&   | . ` |/ _ \| '__/ _` |/ __| |/ _ \| | | |/ _` |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "    .@     /@\   @   | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "     @@@&&* @@@@@(   |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|           " -foregroundcolor White -BackgroundColor Black
-}
- 
-Function WriteLogo {
-Write-Host "     _   _               _      _                 _            " -foregroundcolor White -BackgroundColor Black
-Write-Host "    | \ | | ___  _ __ __| | ___| | ___  _   _  __| |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "    |  \| |/ _ \| `'__/ _`` |/ __| |/ _ \| | | |/ _`` |          " -foregroundcolor White -BackgroundColor Black
-Write-Host "    | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |           " -foregroundcolor White -BackgroundColor Black
-Write-Host "    |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|           " -foregroundcolor White -BackgroundColor Black
-                                                
-}
-
-
-
-Function WriteLogo {
-    Write-Host "           @@@@        _   _               _      _                 _            " -foregroundcolor White -BackgroundColor Black
-    Write-Host "       @@&@    @.     | \ | | ___  _ __ __| | ___| | ___  _   _  __| |           " -foregroundcolor White -BackgroundColor Black
-    Write-Host "     &@@    @  %@&    |  \| |/ _ \| `'__/ _`` |/ __| |/ _ \| | | |/ _`` |          " -foregroundcolor White -BackgroundColor Black
-    Write-Host "    .@     /@\   @    | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |           " -foregroundcolor White -BackgroundColor Black
-    Write-Host "     @@@&&* @@@@@(    |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|           " -foregroundcolor White -BackgroundColor Black
-                                                    
-}
-WriteLogo
-
-
-
-Function WriteNordcloudLogoEncoded {
-	[string[]]$EncodedLogo = "CgAKAA==",
-    "IAAgACAAIAAgACAAIAAgACAAIAAgAEAAQABAAEAAIAAgACAAIAAgACAAIAAgAF8AIAAgACAAXwAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIABfACAAIAAgACAAIAAgAF8AIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgAF8AIAAgACAAIAAgACAAIAAgACAAIAAgACAA",
-    "IAAgACAAIAAgACAAIABAAEAAJgBAACAAIAAgACAAQAAuACAAIAAgACAAIAB8ACAAXAAgAHwAIAB8ACAAXwBfAF8AIAAgAF8AIABfAF8AIABfAF8AfAAgAHwAIABfAF8AXwB8ACAAfAAgAF8AXwBfACAAIABfACAAIAAgAF8AIAAgAF8AXwB8ACAAfAAgACAAIAAgACAAIAAgACAAIAAgACAA",
-    "IAAgACAAIAAgACYAQABAACAAIAAgACAAQAAgACAAJQBAACYAIAAgACAAIAB8ACAAIABcAHwAIAB8AC8AIABfACAAXAB8ACAAJwBfAF8ALwAgAF8AYAAgAHwALwAgAF8AXwB8ACAAfAAvACAAXwAgAFwAfAAgAHwAIAB8ACAAfAAvACAAXwBgACAAfAAgACAAIAAgACAAIAAgACAAIAAgACAA",
-    "IAAgACAAIAAuAEAAIAAgACAAIAAgAC8AQABcACAAIAAgAEAAIAAgACAAIAB8ACAAfABcACAAIAB8ACAAKABfACkAIAB8ACAAfAAgAHwAIAAoAF8AfAAgAHwAIAAoAF8AXwB8ACAAfAAgACgAXwApACAAfAAgAHwAXwB8ACAAfAAgACgAXwB8ACAAfAAgACAAIAAgACAAIAAgACAAIAAgACAA",
-    "IAAgACAAIAAgAEAAQABAACYAJgAqACAAQABAAEAAQABAACgAIAAgACAAIAB8AF8AfAAgAFwAXwB8AFwAXwBfAF8ALwB8AF8AfAAgACAAXABfAF8ALABfAHwAXABfAF8AXwB8AF8AfABcAF8AXwBfAC8AIABcAF8AXwAsAF8AfABcAF8AXwAsAF8AfAAgACAAIAAgACAAIAAgACAAIAAgACAACgAKAA==";
-	$EncodedLogo[0..$EncodedLogo.Count] | %{ Write-Host -foregroundcolor White -BackgroundColor Black $([System.Text.Encoding]::UNICODE.GetString([System.Convert]::FromBase64String($_))) } 
-}
-
-
 
 [string[]]$NordcloudLogo = `
 "`n`n           @@@@        _   _               _      _                 _            ",
@@ -171,24 +17,6 @@ Function WriteNordcloudLogoEncoded {
 $EncodedLogo = @(); foreach ($Line in $NordcloudLogo) { [string[]]$EncodedLogo += [string]$([system.convert]::tobase64string([system.text.encoding]::unicode.getBytes("$Line"))) }
 $EncodedLogo[0..$EncodedLogo.Count] | %{ Write-Host -foregroundcolor White -BackgroundColor Black $([System.Text.Encoding]::UNICODE.GetString([System.Convert]::FromBase64String($_))) } 
 
-Function WriteNordcloudLogo {
-Write-Host "`n`n           @@@@        _   _               _      _                 _            "
-Write-Host "       @@@%    @.     | \ | | ___  _ __ __| | ___| | ___  _   _  __| |           "
-Write-Host "     ‰@@    Å  °@&    |  \| |/ _ \| `'__/ _`` |/ __| |/ _ \| | | |/ _`` |           "
-Write-Host "    &@     /_\   @&   | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |           "
-Write-Host "     °@@&‰, \\@@@%    |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|           `n`n"
-}
-
-
-Function WriteLogo {
-  Write-Host "           @@@@        _   _               _      _                 _            " -foregroundcolor White -BackgroundColor Black
-  Write-Host "       @@&@    @.     | \ | | ___  _ __ __| | ___| | ___  _   _  __| |           " -foregroundcolor White -BackgroundColor Black
-  Write-Host "     &@@    @  %@&    |  \| |/ _ \| `'__/ _`` |/ __| |/ _ \| | | |/ _`` |            " -foregroundcolor White -BackgroundColor Black
-  Write-Host "    .@     /@\   @    | |\  | (_) | | | (_| | (__| | (_) | |_| | (_| |           " -foregroundcolor White -BackgroundColor Black
-  Write-Host "     @@@&&* @@@@@(    |_| \_|\___/|_|  \__,_|\___|_|\___/ \__,_|\__,_|           " -foregroundcolor White -BackgroundColor Black
-                                                  
-}
-WriteLogo
 #>
 
 function Set-WindowToMyStyle{ 
@@ -222,26 +50,9 @@ Function WriteNordcloudLogoEncoded {
 $EncodedLogo[0..$EncodedLogo.Count] | %{ Write-Host -foregroundcolor White -BackgroundColor Black $([System.Text.Encoding]::UNICODE.GetString([System.Convert]::FromBase64String($_))) } 
 }
 
-
 #Measure-Command{WriteNordcloudLogo}
 #Measure-Command{WriteNordcloudLogoEncoded}
 
 #Set-WindowToMyStyle -WindowTitle '☁Nordcloud'
 Set-WindowToMyStyle -WindowTitle $($([char]0x2601)+"Nordcloud")
 WriteNordcloudLogoEncoded
-
-
-<#
-â
-ô
-ß
-•
-ˆ
-¤
-Å
-Æ
-º
-‘
-’
-‚
-#>
